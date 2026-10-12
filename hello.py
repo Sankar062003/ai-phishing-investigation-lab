@@ -1,0 +1,1 @@
+print("SOC analyst lab is online");
